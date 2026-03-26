@@ -86,6 +86,6 @@ python app_gradio.py
 
 ## 📸 Demo
 
-<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/2e698780-66ed-498c-b64d-41d372bec9ab"/>
+![App Screenshot](assets/demo.png)
 
 
