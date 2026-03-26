@@ -54,10 +54,10 @@ FAQ-RAG-Chatbot/
 ## ⚙️ Setup
 
 ### 1️⃣ Clone repo
-```bash
+
 git clone https://github.com/Fathi-Farouk/FAQ_RAG_ChatBot.git
 cd FAQ_RAG_ChatBot
-'''
+
 ### 2️⃣ Create virtual environment
 python -m venv venv
 venv\Scripts\activate
@@ -68,17 +68,17 @@ pip install -r requirements.txt
 ### 4️⃣ Add API key
 Create .env file
 
-#LLM Model use API
+//LLM Model use API
 Anthropic_Claude_API=
 
-#Scrapper tool API
+//Scrapper tool API
 FIRECRAWL_API_KEY=
 
-#FAQ Website URL
+//FAQ Website URL
 FAQ_URL_STC="https://www.stc.com.sa/en/personal/support/faqs/quick-solutions.html"
 FAQ_URL_WE="https://www.te.eg/wps/portal/te/Personal/Help%20And%20Support%20l/FAQ/?1dmy&urile=wcm%3Apath%3A%2FTE%2FHelp%2FFAQ%2F"
 
-#Huggingface API for embedding
+//Huggingface API for embedding
 HF_TOKEN=
 
 ---
