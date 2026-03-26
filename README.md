@@ -86,6 +86,6 @@ python app_gradio.py
 
 ## 📸 Demo
 
-![App Screenshot](assets/demo.png)
+![App Screenshot](assets/Demo.png)
 
 
