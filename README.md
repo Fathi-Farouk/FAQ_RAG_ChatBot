@@ -85,6 +85,5 @@ HF_TOKEN=
 python app_gradio.py
 
 ## 📸 Demo
-
 ![App Screenshot](assets/demo.png)
 
