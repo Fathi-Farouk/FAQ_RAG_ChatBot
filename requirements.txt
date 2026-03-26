@@ -1,0 +1,38 @@
+# =========================
+# Scraping
+# =========================
+firecrawl-py
+python-dotenv
+
+# =========================
+# LangChain (RAG Core)
+# =========================
+langchain
+langchain-community
+langchain-anthropic
+langchain-text-splitters
+langchain-huggingface
+
+# =========================
+# Embeddings + Vector DB
+# =========================
+sentence-transformers
+faiss-cpu
+chromadb
+
+# =========================
+# LLM (Claude)
+# =========================
+anthropic
+
+# =========================
+# UI
+# =========================
+gradio
+
+# =========================
+# Utilities
+# =========================
+pandas
+numpy
+tqdm

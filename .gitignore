@@ -1,0 +1,13 @@
+# Environment
+.env
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Vector DB
+vectorstores/
+
+# OS
+.DS_Store
