@@ -74,8 +74,8 @@ Anthropic_Claude_API=
 FIRECRAWL_API_KEY=
 
 ####  FAQ URLs
-FAQ_URL_STC="https://www.stc.com.sa/en/personal/support/faqs/quick-solutions.html"
-FAQ_URL_WE="https://www.te.eg/wps/portal/te/Personal/Help%20And%20Support%20l/FAQ/?1dmy&urile=wcm%3Apath%3A%2FTE%2FHelp%2FFAQ%2F"
+***FAQ_URL_STC="https://www.stc.com.sa/en/personal/support/faqs/quick-solutions.html"***
+***FAQ_URL_WE="https://www.te.eg/wps/portal/te/Personal/Help%20And%20Support%20l/FAQ/?1dmy&urile=wcm%3Apath%3A%2FTE%2FHelp%2FFAQ%2F"***
 
 ####  HuggingFace embedding API
 HF_TOKEN=
