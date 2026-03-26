@@ -81,9 +81,11 @@ FAQ_URL_WE="https://www.te.eg/wps/portal/te/Personal/Help%20And%20Support%20l/FA
 #Huggingface API for embedding
 HF_TOKEN=
 
+---
 ## ▶️ Run App
 python app_gradio.py
 
+---
 ## 📸 Demo
 ![App Screenshot](assets/demo.png)
 
